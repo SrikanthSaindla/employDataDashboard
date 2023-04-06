@@ -1,0 +1,26 @@
+.leftCon{
+    width: 40vw;
+    padding-left: 20px;
+    overflow-y: scroll;
+     
+}
+.listData{
+    background-color: aquamarine;
+    width: 70vh;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:  space-between;
+     margin: 10px;
+}
+h4{
+    padding-left: 30px;
+    padding: 8px;
+    cursor: pointer;
+     
+}
+hr{
+    color: red;
+    width: 90%;
+    border-bottom: 3px solid red;
+}

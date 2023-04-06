@@ -1,0 +1,13 @@
+.rightCon{
+    width: 60vw;
+    
+}
+img{
+    height: 200px;
+    width:250px;
+}
+li{
+    list-style: none;
+    padding-top: 3px;
+    font-weight: 700;
+}
